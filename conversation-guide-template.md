@@ -102,34 +102,47 @@ If not yet receiving education benefits:
 ### Things to watch for:
 - Does the participant mention email messages from the VA? 
 - Does the participant immediately jump to the search box or try to navigate through site menus? 
-- Does the user log in and navigate through authenticated sections?
+- Does the participant log in and navigate through authenticated sections?
 - If so, is the participant aware that they may be sharing personal information on their screen, and are they okay with that?
 
-## Second Task: Open the prototype - X minutes
+## Second Task: Open the prototype - 2 minutes
 - You should have received a link to the prototype site we would like to you to view. If not, we have just posted the link in the Zoom chat, as well.
 - Please open the prototype in your browser by clicking the link
 
-
-## Third Task: How many months to verify? - X minutes
-- Open the prototype link
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+## Third Task: Enrollment periods to verify - 1 minute
+- Do you have any enrollment periods to verify?
+- How would you verify it? 
 
 ### Things to watch for:
+- Does the participant understand the purpose of verifying their enrollment?
+- Does the participant notice the alert section at the top of the screen with the current periods needing enrollment verification?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+## Fourth Task: Error in enrollment information - 2 minutes
+- You notice there is an error in your enrollment information. What would you do? 
+
+### Things to watch for:
+- Does the participant notice the error prompt?
+
+## Fifth Task: Verify enrollment - 1 minutes
+- Go ahead and try to verify your enrollment and let me know if you're successful
+- When do you expect your money to be deposited? 
+
+### Things to watch for:
+- Does the participant notice the success message?
+
+## Sixth Task: Verify past payment amount - 2 minutes
+- You have a question about how much was deposited for the month of February 2022.
+- Can you find out how much was deposited to your account?  
+
+### Things to watch for:
+- Does the participant understand that the history continues via the pagination links?
+
+## Seventh Task: Update Direct Deposit - 2 minutes
+- You have changed banks and need to update your direct deposit information so payment gets to your new account. How would you do this? 
+
+### Things to watch for:
+- Does the participant understand that the Benefits profile link is the correct place to update the information?
+- Does the participant try to go to the global VA profile to do so?   
 
 ## Post-Task Interview - X minutes
 
