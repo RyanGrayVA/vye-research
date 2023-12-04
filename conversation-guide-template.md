@@ -30,15 +30,15 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is Ryan Gray and Ilyas Iman is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about [description of your project].
+Today we're going to talk about the Verify Your Enrollment tool that the VA uses to help Veterans manage their GI Bill Enrollments.
 
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
@@ -63,15 +63,25 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+**About you**
+1. Do you currently receive education benefits under the GI Bill?
+   - If yes: under which program do you receive them (Montgomery GI Bill, Post-9/11 GI Bill)
+   - If no: skip to next question.
+2. Do you have a service-connected disability at VA?
+   - If yes: what is your disability rating?
+   - If no, skip to next question.
 
-## First Task: [TASK NAME] - X minutes
+**About how you use the web**
+1. Do you have a disability that interferes with your ability to use websites, like a vision impairment?
+4. How often do you use the VA website?
+5. What are the primary reasons you use the VA website?
+6. How easy or difficult do you find it to use the VA website?
+7. 
 
-- Step 1
-- Step 2
+## First Task: Navigate to VYE - X minutes
+
+- Open VA.gov in your browser
+- Can you show us how you would find the place you would expect to verify your school enrollment? 
 
 ### Things to watch for:
 
