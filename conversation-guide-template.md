@@ -64,35 +64,54 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
 **About you**
-1. Do you currently receive education benefits under the GI Bill?
+1. Do you currently receive education benefits under the GI Bill or will you be eligible in the future?
    - If yes: under which program do you receive them (Montgomery GI Bill, Post-9/11 GI Bill)
    - If no: skip to next question.
 2. Do you have a service-connected disability at VA?
    - If yes: what is your disability rating?
    - If no, skip to next question.
 
-**About how you use the web**
+
+**About how you use the VA website**
 1. Do you have a disability that interferes with your ability to use websites, like a vision impairment?
-4. How often do you use the VA website?
-5. What are the primary reasons you use the VA website?
-6. How easy or difficult do you find it to use the VA website?
-7. 
+2. How often do you use the VA website?
+3. What are the primary reasons you use the VA website?
+4. How easy or difficult do you find it to accomplish your primary reasons for visiting the site?
 
-## First Task: Navigate to VYE - X minutes
 
-- Open VA.gov in your browser
-- Can you show us how you would find the place you would expect to verify your school enrollment? 
+**About your education benefits**
+If currently receiving benefits:
+1. Do you verify your enrollment through the website?
+2. Have you ever had any problems verifying your enrollment, like enrollment information being incorrect?
+3. Are you aware of any other methods for verifying your enrollment?
+4. Would you prefer to verify your enrollment over the phone through an automated system?
+5. If available, would you like to verify your enrollment via text message?
+
+If not yet receiving education benefits: 
+1. 
+
+**Ask participant to share screen**
+1. Explain process for sharing in Zoom
+2. Verify we can see the screen
+
+## First Task: Navigate to VYE - 4 minutes
+1. If currently utilizing GI Bill benefits, how do you normally get to the website to verify your enrollment? If not, go to next task.
+2. Open VA.gov in your browser
+3. Show us how you would find the place you would expect to verify your school enrollment? 
 
 ### Things to watch for:
+- Does the participant mention email messages from the VA? 
+- Does the participant immediately jump to the search box or try to navigate through site menus? 
+- Does the user log in and navigate through authenticated sections?
+- If so, is the participant aware that they may be sharing personal information on their screen, and are they okay with that?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+## Second Task: Open the prototype - X minutes
+- You should have received a link to the prototype site we would like to you to view. If not, we have just posted the link in the Zoom chat, as well.
+- Please open the prototype in your browser by clicking the link
 
-## Second Task: [TASK NAME] - X minutes
 
-- Step 1
+## Third Task: How many months to verify? - X minutes
+- Open the prototype link
 - Step 2
 
 ### Things to watch for:
