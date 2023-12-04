@@ -3,12 +3,7 @@
 ## Moderator logistics
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Ensure prototype is in working order - links to prototype, in-prototype links
 
 
 ### Day of the session
@@ -94,7 +89,7 @@ If not yet receiving education benefits:
 1. Explain process for sharing in Zoom
 2. Verify we can see the screen
 
-## First Task: Navigate to VYE - 4 minutes
+## First Task: Navigate to VYE - 3 minutes
 1. If currently utilizing GI Bill benefits, how do you normally get to the website to verify your enrollment? If not, go to next task.
 2. Open VA.gov in your browser
 3. Show us how you would find the place you would expect to verify your school enrollment? 
@@ -130,24 +125,30 @@ If not yet receiving education benefits:
 ### Things to watch for:
 - Does the participant notice the success message?
 
-## Sixth Task: Verify past payment amount - 2 minutes
-- You have a question about how much was deposited for the month of February 2022.
-- Can you find out how much was deposited to your account?  
-
-### Things to watch for:
-- Does the participant understand that the history continues via the pagination links?
-
-## Seventh Task: Update Direct Deposit - 2 minutes
+## Sixth Task: Update Direct Deposit - 2 minutes
 - You have changed banks and need to update your direct deposit information so payment gets to your new account. How would you do this? 
 
 ### Things to watch for:
 - Does the participant understand that the Benefits profile link is the correct place to update the information?
 - Does the participant try to go to the global VA profile to do so?   
 
-## Post-Task Interview - X minutes
+## Seventh Task: Verify past payment amount - 2 minutes
+- You have a question about how much was deposited for the month of February 2022.
+- Can you find out how much was deposited to your account?  
 
-- Question 1
-- Question 2
+### Things to watch for:
+- Does the participant understand that the history continues via the pagination links?
+
+## Eighth Task: Remaining benefits - 2 minutes
+- You have a question about your remaining benefits and when they expire. How would you find the answer?
+
+### Things to watch for:
+- Does the participant expect to find this with his verification history or in the profile?
+
+## Post-Task Interview - 2 minutes
+- Are there any other questions about your enrollment verifications that you have?
+- Would you come back to the website to see status updates on your pending payments or would you feel satisfied with the timeframe for payment you noticed today? 
+- Anything else you would like to share, even if unrelated to what you've seen today?
 - Any questions for me? 
 
 ## Consent to use video clips
@@ -156,7 +157,7 @@ If not yet receiving education benefits:
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
